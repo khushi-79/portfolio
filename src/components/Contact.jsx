@@ -40,13 +40,7 @@ const Contact = () => {
                 <SiLinkedin />
               </a>
               <a
-                href="https://www.instagram.com/pandyakhushiii_ix51/"
-                className=" hover:text-slate-500  dark:hover:text-sky-300"
-              >
-                <SiInstagram />
-              </a>
-              <a
-                href="khushihp7903@gmail.com"
+                href="mailto:khushihp7903@gmail.com"
                 className=" hover:text-slate-500  dark:hover:text-sky-300"
               >
                 <SiGmail />
