@@ -11,7 +11,7 @@ const Menu = () => {
   }, [theme]);
 
   const handleTheme = () => {
-    setTheme(theme === "dark" ? "light" : "dark");
+    setTheme(theme === "light" ? "dark" : "light");
   };
 
   return (
